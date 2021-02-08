@@ -1,0 +1,20 @@
+Total Classes: 2
+	Priority Queues
+	Total Functions:4
+		Print
+		checkIfEmpty
+		insertNode
+		del_Min
+		
+	Binary Heap
+	Total Functions:
+		Union
+		insert
+		Min
+		Del
+		Update
+		parent
+		PrintHeap
+
+Complexity:
+O(nlogn)
